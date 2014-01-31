@@ -1,0 +1,5 @@
+golang-mapstructure (0.0~git20131216+57bb2fa-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Kouhei Maeda <mkouhei@palmtb.net>  Tue, 28 Jan 2014 19:23:57 +0900
