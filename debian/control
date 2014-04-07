@@ -1,4 +1,4 @@
-Source: golang-mapstructure
+Source: golang-mitchellh-mapstructure
 Section: devel
 Priority: extra
 Maintainer: Kouhei Maeda <mkouhei@palmtb.net>
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 9.0.0), dh-golang, golang-go
 Standards-Version: 3.9.5
 Homepage: https://github.com/mitchellh/mapstructure
 
-Package: golang-mapstructure-dev
+Package: golang-mitchellh-mapstructure-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, golang-go
 Description: decoding generic map values to structures and vice versa

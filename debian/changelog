@@ -1,4 +1,4 @@
-golang-mapstructure (0.0~git20131216+57bb2fa-1) unstable; urgency=low
+golang-mitchellh-mapstructure (0.0~git20131216+57bb2fa-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
 
